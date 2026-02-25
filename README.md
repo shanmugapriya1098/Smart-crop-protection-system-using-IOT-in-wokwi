@@ -15,8 +15,8 @@ An IoT-based smart crop protection system simulated in **Wokwi** to monitor fiel
 - C / Arduino IDE
 
 ## Programming Languages
--C++(wokwi)
--Python
+- C++(wokwi)
+- Python
 
 ## Project Structure
 ```
