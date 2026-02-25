@@ -29,9 +29,10 @@ Smart-crop-protection-system-using-IOT-in-wokwi-main/
 
 ## How to Run (Wokwi)
 1. Open https://wokwi.com/
-2. Create a new project (ESP32 / Arduino)
-3. Upload `diagram.json` and `sketch.ino`
-4. Start simulation
+2. Create a new project (ESP32)
+3. Paste `wokwi_code` and `use necessary sensors` and create the project diagram
+4. Set up IBM cloud
+5. Start simulation
 
 ## Notes
 - Designed for learning and prototyping
