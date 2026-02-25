@@ -14,6 +14,10 @@ An IoT-based smart crop protection system simulated in **Wokwi** to monitor fiel
 - Sensors (Ultrasonic / PIR / etc.)
 - C / Arduino IDE
 
+## Programming Languages
+-C++(wokwi)
+-Python
+
 ## Project Structure
 ```
 Smart-crop-protection-system-using-IOT-in-wokwi-main/
@@ -32,5 +36,4 @@ Smart-crop-protection-system-using-IOT-in-wokwi-main/
 - Designed for learning and prototyping
 - Can be extended with GSM, IoT cloud, or mobile alerts
 
-## License
-MIT (or specify if different)
+
