@@ -9,7 +9,7 @@ An IoT-based smart crop protection system simulated in **Wokwi** to monitor fiel
 - Simple, modular IoT logic
 
 ## Tech Stack
-- Arduino / ESP32
+- ESP32
 - Wokwi Simulator
 - Sensors (Ultrasonic / PIR / etc.)
 
@@ -20,8 +20,10 @@ An IoT-based smart crop protection system simulated in **Wokwi** to monitor fiel
 ## Project Structure
 ```
 Smart-crop-protection-system-using-IOT-in-wokwi-main/
-├── diagram.json        # Wokwi circuit design
-├── sketch.ino          # Arduino source code
+├── output.docx        # Wokwi circuit design with output
+├── wokwi_code.txt     # Wokwi source code
+├── Project_code.py    # Source code written in python
+├── Wokwi link         # Wokwi project link
 ├── README.md
 ```
 
