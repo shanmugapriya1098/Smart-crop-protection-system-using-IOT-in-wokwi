@@ -30,13 +30,14 @@ Smart-crop-protection-system-using-IOT-in-wokwi-main/
 ## How to Run (Wokwi)
 1. Set up `IBM cloud` in https://cloud.ibm.com/login
 2. Set up `Node-Red` in https://nodered.org/
-3. Open https://wokwi.com/
-4. Create a new project (ESP32)
-5. Paste `wokwi_code` and `use necessary sensors` and create the project diagram
-6. Copy and paste the code in 'project_code.py' in a python file
-7. Start simulation in `wokwi`
-8. Run the python file.
-9. Create mobile app using `MIT APP Inventor` and install it in your mobile
+3. Create account in OpenWeather API using the link https://openweathermap.org/ and specify your location
+4. Open https://wokwi.com/
+5. Create a new project (ESP32)
+6. Paste `wokwi_code` and `use necessary sensors` and create the project diagram
+7. Copy and paste the code in 'project_code.py' in a python file
+8. Start simulation in `wokwi`
+9. Run the python file.
+10. Create mobile app using `MIT APP Inventor` and install it in your mobile
     
 The data collected using sensors in wokwi is send to ibm cloud and it will be displayed in the app.  For clear reference see the `output.docx`
 
