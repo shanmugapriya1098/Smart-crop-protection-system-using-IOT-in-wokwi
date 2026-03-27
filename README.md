@@ -36,6 +36,7 @@ Smart-crop-protection-system-using-IOT-in-wokwi-main/
 
 ## Interactive Design in wokwi
 <img src="Interactive design in wokwi.png"/>
+
 ## Notes
 - Designed for learning and prototyping
 - Can be extended with GSM, IoT cloud, or mobile alerts
