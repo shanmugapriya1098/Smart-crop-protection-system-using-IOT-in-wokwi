@@ -20,11 +20,15 @@ An IoT-based smart crop protection system simulated in **Wokwi** to monitor fiel
 ## Project Structure
 ```
 Smart-crop-protection-system-using-IOT-in-wokwi-main/
-├── output.docx        # Wokwi circuit design with output
-├── wokwi_code.txt     # Wokwi source code
-├── Project_code.py    # Source code written in python
-├── Wokwi link         # Wokwi project link
+├── output.docx                            # Wokwi circuit design with output
+├── wokwi_code.txt                         # Wokwi source code
+├── Project_code.py                        # Source code written in python
+├── Wokwi link                             # Wokwi project link
+├──payload sent to cloud.png               # reference image for payload sent to ibm cloud
+├──App created using MIT APP Inventor.png  # reference image for app created using MIT APP inventor
+├──Interactive design in wokwi.png         # reference image for interactive design in wokwi
 ├── README.md
+
 ```
 
 ## How to Run (Wokwi)
