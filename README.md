@@ -37,6 +37,7 @@ Smart-crop-protection-system-using-IOT-in-wokwi-main/
 7. Start simulation in `wokwi`
 8. Run the python file.
 9. Create mobile app using `MIT APP Inventor` and install it in your mobile
+    
 The data collected using sensors in wokwi is send to ibm cloud and it will be displayed in the app.  For clear reference see the `output.docx`
 
 
