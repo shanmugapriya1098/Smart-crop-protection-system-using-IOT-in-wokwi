@@ -400,5 +400,3 @@ while True:
 # Disconnect the device and application from the cloud
 deviceCli.disconnect()
    
-project_final.py
-Displaying project_final.py.
