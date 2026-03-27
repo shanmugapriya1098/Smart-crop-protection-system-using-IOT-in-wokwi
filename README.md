@@ -28,10 +28,10 @@ Smart-crop-protection-system-using-IOT-in-wokwi-main/
 ```
 
 ## How to Run (Wokwi)
-1. Open https://wokwi.com/
-2. Create a new project (ESP32)
-3. Set up `IBM cloud` in https://cloud.ibm.com/login
-4. Set up `Node-Red` in https://nodered.org/
+1. Set up `IBM cloud` in https://cloud.ibm.com/login
+2. Set up `Node-Red` in https://nodered.org/
+3. Open https://wokwi.com/
+4. Create a new project (ESP32)
 5. Paste `wokwi_code` and `use necessary sensors` and create the project diagram
 6. Copy and paste the code in 'project_code.py' in a python file
 7. Start simulation in `wokwi`
