@@ -40,9 +40,11 @@ Smart-crop-protection-system-using-IOT-in-wokwi-main/
     
 The data collected using sensors in wokwi is send to ibm cloud and it will be displayed in the app.  For clear reference see the `output.docx`
 
-
 ## Interactive Design in wokwi
 <img src="Interactive design in wokwi.png"/>
+
+## APP Design
+<img src="App created using MIT APP Inventor.png"/>
 
 ## Notes
 - Designed for learning and prototyping
