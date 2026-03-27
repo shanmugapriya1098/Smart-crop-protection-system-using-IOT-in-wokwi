@@ -48,4 +48,4 @@ The data collected using sensors in wokwi is send to ibm cloud and it will be di
 
 ## Notes
 - Designed for learning and prototyping
-- Can be extended with GSM, IoT cloud, or mobile alerts
+- Can be extended with GSM
